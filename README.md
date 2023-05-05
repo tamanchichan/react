@@ -2,7 +2,7 @@
 
 # Demo
 
-Click [here]() to check the tutorial.
+Click [here]() to open the app.
 
 <!-- # Getting Started with Create React App
 
